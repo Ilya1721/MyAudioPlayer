@@ -12,7 +12,6 @@ import javafx.geometry.*;
 import javafx.beans.value.*;
 import java.math.*;
 import java.nio.file.Files;
-
 import javafx.util.*;
 import javafx.collections.*;
 import java.util.*;
